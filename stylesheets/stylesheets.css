@@ -1,10 +1,10 @@
-a:visited {
+li a:visited {
     color:red;
 }
-a {
+li a {
     color: green;
 }
-a:hover {
+li a:hover {
     color: pink;
 }
 
