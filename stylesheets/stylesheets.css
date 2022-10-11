@@ -1,4 +1,19 @@
-li a:visited {
+img {
+    float: left;
+}
+ .below {
+    clear: left;
+ }
+
+
+
+
+
+
+
+
+
+/* li a:visited {
     color:red;
 }
 li a {
@@ -6,17 +21,17 @@ li a {
 }
 li a:hover {
     color: pink;
-}
+} */
 
 /* <a title="BCIT homepage" href="https://bcit.ca">Links</a> */
-[title="BCIT homepage"] {
+/* [title="BCIT homepage"] {
     background-color: yellow;
 }
 
 li:first-child::first-letter {
     font-weight: bold;
     font-size: 120%;
-}
+} */
 
 
 
