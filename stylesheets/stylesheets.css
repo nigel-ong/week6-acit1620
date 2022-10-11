@@ -1,10 +1,17 @@
 a:visited {
-    color:pink;
+    color:red;
 }
 a {
     color: green;
 }
+a:hover {
+    color: pink;
+}
 
+/* <a title="BCIT homepage" href="https://bcit.ca">Links</a> */
+[title="BCIT homepage"] {
+    background-color: yellow;
+}
 
 
 
